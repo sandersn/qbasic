@@ -1,0 +1,17 @@
+[WZD File]
+Title=Base Convert
+InternalFileName=ZYROSSC
+DescriptionCount=3
+Description1=Convert between base 2,10, and 16,
+Description2=all while showing your work like Buchan
+Description3=wants.
+
+[Variant Convert Result]
+CONVERSION=Z0
+NUM$=Z0$
+DEC=Z2
+BIT=Z1
+ANSWER$=Z1$
+ANSWER2$=Z2$
+HEXDIGIT=Z3
+HEX=Z4
